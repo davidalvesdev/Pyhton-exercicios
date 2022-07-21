@@ -1,0 +1,2 @@
+# Pyhton-exercicios
+ Python - Cursoemvideo
